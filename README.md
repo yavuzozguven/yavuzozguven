@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ##### I'm Yavuz M. Özgüven. Looking for things to learn.
+---
 
 [![Twitter](icons/twitter.png)](https://twitter.com/yavuzozguven)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/yavuzozguven/)
