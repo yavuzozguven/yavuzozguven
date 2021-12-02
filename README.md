@@ -10,6 +10,3 @@
 - 🔭 I’m currently working on big data and machine learning.
 - 🌱 I’m currently learning deep learning.
 - 📫 How to reach me: yavuzozguven@hotmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzozguven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
